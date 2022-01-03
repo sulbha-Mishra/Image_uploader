@@ -1,0 +1,6 @@
+module Pods_Image_Uploder_Image_UploderTests {
+  umbrella header "Pods-Image_Uploder-Image_UploderTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

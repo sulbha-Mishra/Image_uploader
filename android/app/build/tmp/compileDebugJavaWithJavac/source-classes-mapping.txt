@@ -1,0 +1,14 @@
+com/image_uploder/BuildConfig.java
+ com.image_uploder.BuildConfig
+com/image_uploder/ReactNativeFlipper.java
+ com.image_uploder.ReactNativeFlipper
+ com.image_uploder.ReactNativeFlipper$1
+ com.image_uploder.ReactNativeFlipper$2
+ com.image_uploder.ReactNativeFlipper$2$1
+com/image_uploder/MainActivity.java
+ com.image_uploder.MainActivity
+com/image_uploder/MainApplication.java
+ com.image_uploder.MainApplication
+ com.image_uploder.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

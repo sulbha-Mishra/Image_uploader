@@ -1,0 +1,6 @@
+module Pods_Image_Uploder {
+  umbrella header "Pods-Image_Uploder-umbrella.h"
+
+  export *
+  module * { export * }
+}
