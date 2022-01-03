@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/walkover/Documents/Project/Image_Uploder/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/fc1654b192d5be7d910fd6c888a85d73/transformed/jetified-ucrop-2.2.6-native/res/values-fr/values-fr.xml",

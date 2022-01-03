@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/walkover/Documents/Project/Image_Uploder/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/7403ebe5571a2ce5a6a5fc9876af4814/transformed/jetified-react-native-0.66.4/res/values/values.xml",
@@ -40,23 +40,6 @@
                     }
                 },
                 {
-                    "source": "/Users/walkover/Documents/Project/Image_Uploder/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "335,336",
-                        "startColumns": "4,4",
-                        "startOffsets": "21603,21667",
-                        "endColumns": "63,68",
-                        "endOffsets": "21662,21731"
-                    }
-                },
-                {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/fc1654b192d5be7d910fd6c888a85d73/transformed/jetified-ucrop-2.2.6-native/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,64,71,80,89,98,104,112",
@@ -73,23 +56,6 @@
                         "endLines": "75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,338,424,425,426,427,428,429,430,431,2085,2092,2101,2110,2119,2125,3830,3852",
                         "endColumns": "89,91,48,58,78,64,65,62,60,56,53,89,88,87,55,70,77,48,69,76,85,87,92,81,66,65,60,84,77,64,66,57,74,60,58,74,60,59,55,50,60,63,60,58,72,68,67,43,125,61,57,48,185,47,45,12,12,12,12,12,12,24,24",
                         "endOffsets": "5180,5272,5321,5380,5459,5524,5590,5653,5714,5771,5825,5915,6004,6092,6148,6219,6297,6346,6416,6493,6579,6667,6760,6842,15129,15195,15256,15341,15419,15484,15551,15609,15684,15745,15804,15879,15940,16000,16056,16107,16168,16232,16293,16352,16425,16494,21869,29424,29550,29612,29670,29719,29905,29953,29999,141721,142142,142688,143232,143692,144068,234293,235217"
-                    }
-                },
-                {
-                    "source": "/Users/walkover/Documents/Project/Image_Uploder/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "50",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "367",
-                        "startColumns": "4",
-                        "startOffsets": "23813",
-                        "endColumns": "50",
-                        "endOffsets": "23859"
                     }
                 },
                 {
@@ -184,6 +150,23 @@
                     }
                 },
                 {
+                    "source": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "335,336",
+                        "startColumns": "4,4",
+                        "startOffsets": "21603,21667",
+                        "endColumns": "63,68",
+                        "endOffsets": "21662,21731"
+                    }
+                },
+                {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/be9076cd4fc3ff6ad98aa6fb277b3148/transformed/jetified-autofill-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,19,20,27,32,37,44,53",
@@ -203,6 +186,23 @@
                     }
                 },
                 {
+                    "source": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "50",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "367",
+                        "startColumns": "4",
+                        "startOffsets": "23813",
+                        "endColumns": "50",
+                        "endOffsets": "23859"
+                    }
+                },
+                {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/5646db46e2cfb43e7b3d42f3054c498c/transformed/core-1.5.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,88,89,93,94,95,96,103,151,183,220",
@@ -219,25 +219,6 @@
                         "endLines": "15,16,53,54,181,182,183,184,185,186,187,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,242,243,244,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277,293,294,303,304,305,306,307,308,309,310,311,312,313,314,315,316,317,318,337,419,1823,1827,1828,1832,1833,2067,2068,2867,2961,2993,3178,3185",
                         "endColumns": "71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "1025,1113,3621,3684,12429,12497,12569,12639,12700,12774,12847,13692,13753,13815,13879,13941,14002,14070,14170,14230,14296,14369,14438,14495,14547,14609,16566,16642,16707,16817,16876,16936,16996,17056,17116,17176,17236,17296,17356,17416,17476,17535,17595,17655,17715,17775,17835,17895,17955,18015,18075,18135,18194,18254,18314,18373,18432,18491,18550,18609,18668,19455,19490,19940,20003,20058,20116,20174,20235,20298,20355,20406,20456,20517,20574,20640,20674,20709,20744,21801,29074,123850,124051,124161,124362,124491,140854,140921,184658,190501,192566,200670,201047"
-                    }
-                },
-                {
-                    "source": "/Users/walkover/Documents/Project/Image_Uploder/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "180"
-                    },
-                    "to": {
-                        "startLines": "445",
-                        "startColumns": "4",
-                        "startOffsets": "30942",
-                        "endLines": "447",
-                        "endColumns": "12",
-                        "endOffsets": "31068"
                     }
                 },
                 {
@@ -310,6 +291,25 @@
                         "endLines": "289,301,330,2998,3002",
                         "endColumns": "56,64,63,24,24",
                         "endOffsets": "19299,19839,21355,192736,192885"
+                    }
+                },
+                {
+                    "source": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "180"
+                    },
+                    "to": {
+                        "startLines": "445",
+                        "startColumns": "4",
+                        "startOffsets": "30942",
+                        "endLines": "447",
+                        "endColumns": "12",
+                        "endOffsets": "31068"
                     }
                 }
             ]

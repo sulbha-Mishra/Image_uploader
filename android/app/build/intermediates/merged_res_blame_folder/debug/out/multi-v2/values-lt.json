@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/walkover/Documents/Project/Image_Uploder/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/Users/walkover/Documents/CLG_Project/Image_uploader/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "/Users/walkover/.gradle/caches/transforms-3/5646db46e2cfb43e7b3d42f3054c498c/transformed/core-1.5.0/res/values-lt/values-lt.xml",
